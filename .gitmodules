@@ -1,0 +1,6 @@
+[submodule "Mechanical"]
+	path = Mechanical
+	url = https://github.com/MiCyg/AnotherMidiSplitterV2_Mechanical.git
+[submodule "Hardware"]
+	path = Hardware
+	url = https://github.com/MiCyg/AnotherMidiSplitterV2_Hardware.git
