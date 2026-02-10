@@ -1,8 +1,8 @@
 # Another MIDI Splitter V2
-![Work in Progress](https://img.shields.io/badge/status-in--progress-orange)
+![Done](https://img.shields.io/badge/status-done-green)
 
 ---
-![presentation](images/version2.gif)
+<!-- ![presentation](images/version2.gif) -->
 
 This is the second version of the [Another MIDI Splitter](https://www.instructables.com/Another-MIDI-Splitter/) project I published on Instructables. The previous version was difficult to assemble and not fully refined. This version improves several aspects of the original design.
 
