@@ -16,5 +16,4 @@ A MIDI splitter is a device that distributes a single MIDI source to multiple ou
 
 ## Support
 
-The project is still under development, so some parts may not fit perfectly.  
 If you notice any issues, feel free to contact me.
